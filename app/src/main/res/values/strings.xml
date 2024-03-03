@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">registro</string>
+    <string name="strcrearcuenta"><u>crearcuenta</u></string>
 </resources>
